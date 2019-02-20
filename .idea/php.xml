@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="920537a6-cd27-443e-b36e-98b4ad48666d" name="Apache on XAMP" />
+    </servers>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>
